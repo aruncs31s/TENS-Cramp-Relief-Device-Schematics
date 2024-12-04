@@ -598,6 +598,10 @@
     [
       "2d1c429d-f183-4bcd-93b1-5f80de84f69f",
       "Astable Multivibrator"
+    ],
+    [
+      "bfdd6686-5c44-4050-9e42-e0bc0e78ace7",
+      "Inverter"
     ]
   ],
   "text_variables": {}

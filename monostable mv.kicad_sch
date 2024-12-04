@@ -753,6 +753,12 @@
 		(uuid "80371c67-10d7-4599-831a-2183137c1f1b")
 	)
 	(junction
+		(at 100.33 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8f9c9459-bc3d-418f-823c-2d3bf81fe185")
+	)
+	(junction
 		(at 121.92 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -833,6 +839,16 @@
 			(type default)
 		)
 		(uuid "5618e562-7d2e-4de8-87cc-beab97676d67")
+	)
+	(wire
+		(pts
+			(xy 95.25 100.33) (xy 100.33 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d489305-5cc2-4586-89db-b387536d5a4f")
 	)
 	(wire
 		(pts
@@ -1047,6 +1063,18 @@
 			(justify right)
 		)
 		(uuid "c4f18ac8-e883-4784-93cc-87afef7a3cdc")
+	)
+	(hierarchical_label "Trig"
+		(shape input)
+		(at 95.25 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d606be51-5005-4ece-b8a4-48d1d99dcdac")
 	)
 	(hierarchical_label "Vin"
 		(shape input)
