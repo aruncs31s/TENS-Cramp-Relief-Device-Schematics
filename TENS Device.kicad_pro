@@ -590,6 +590,14 @@
     [
       "dd66909c-df42-48cf-88ff-d90a61e075f2",
       "PowerSupply"
+    ],
+    [
+      "3344af60-ddea-4236-964a-cf859dc1c1a4",
+      "Monostable Multivibrator"
+    ],
+    [
+      "2d1c429d-f183-4bcd-93b1-5f80de84f69f",
+      "Astable Multivibrator"
     ]
   ],
   "text_variables": {}
