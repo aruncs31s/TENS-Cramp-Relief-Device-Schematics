@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "4f573b80-e0f6-438c-8679-104e656b581d")
+	(uuid "0aac0681-b070-492d-9086-1584d6ad29de")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:L"
@@ -1161,28 +1161,6 @@
 		)
 		(uuid "f84b2a4c-4567-45df-96e7-1b4e946614a1")
 	)
-	(global_label "Vin"
-		(shape input)
-		(at 143.51 71.12 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0a91a7a6-b786-4ef1-8e2a-6d7a4b23c69c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 65.2924 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(hierarchical_label "~HV"
 		(shape input)
 		(at 175.26 100.33 0)
@@ -1206,6 +1184,18 @@
 			(justify right)
 		)
 		(uuid "523836e3-e84a-4ad5-986f-c81750313e7f")
+	)
+	(hierarchical_label "Vin"
+		(shape input)
+		(at 143.51 71.12 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5855d6d0-ddca-4305-be95-296b021b6df3")
 	)
 	(hierarchical_label "HV"
 		(shape input)

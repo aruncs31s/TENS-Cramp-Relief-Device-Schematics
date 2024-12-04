@@ -1376,7 +1376,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a370f97-b1ba-4982-9f25-68f005f41a58")
-		(property "Reference" "C?"
+		(property "Reference" "C"
 			(at 111.76 115.5699 0)
 			(effects
 				(font
@@ -1385,7 +1385,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01uF"
+		(property "Value" "220uF"
 			(at 111.76 118.1099 0)
 			(effects
 				(font
@@ -1430,7 +1430,7 @@
 		(instances
 			(project "TENS Device"
 				(path "/b9aff4a0-d82a-4bce-ac01-704fb6f0f3d4/3344af60-ddea-4236-964a-cf859dc1c1a4"
-					(reference "C?")
+					(reference "C")
 					(unit 1)
 				)
 			)
