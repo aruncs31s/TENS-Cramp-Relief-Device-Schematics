@@ -903,10 +903,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1fc1222a-8777-4d30-b137-fcb7eff7b89e")
-		(property "Reference" "RV?"
-			(at 171.45 93.9799 0)
+		(property "Reference" "R_Potentiometer_Trim"
+			(at 171.196 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -914,8 +913,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_Potentiometer_Trim"
-			(at 171.45 96.5199 0)
+		(property "Value" "10k"
+			(at 168.91 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -962,7 +961,7 @@
 		(instances
 			(project ""
 				(path "/b9aff4a0-d82a-4bce-ac01-704fb6f0f3d4/2d1c429d-f183-4bcd-93b1-5f80de84f69f"
-					(reference "RV?")
+					(reference "R_Potentiometer_Trim")
 					(unit 1)
 				)
 			)
@@ -1048,7 +1047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99b2eb0e-6c00-4024-89b2-497fae715163")
-		(property "Reference" "U?"
+		(property "Reference" "U2"
 			(at 149.5141 82.55 0)
 			(effects
 				(font
@@ -1120,7 +1119,7 @@
 		(instances
 			(project "TENS Device"
 				(path "/b9aff4a0-d82a-4bce-ac01-704fb6f0f3d4/2d1c429d-f183-4bcd-93b1-5f80de84f69f"
-					(reference "U?")
+					(reference "U2")
 					(unit 1)
 				)
 			)

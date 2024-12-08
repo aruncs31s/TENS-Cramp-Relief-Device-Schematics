@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "0aac0681-b070-492d-9086-1584d6ad29de")
+	(uuid "c17b04b0-d255-4dd9-acc5-6668c4295aad")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:L"
@@ -1359,10 +1359,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "24c1908d-ba65-4547-ab63-3909d85a0acc")
-		(property "Reference" "Q?"
-			(at 138.43 111.7599 0)
+		(property "Reference" "Q1"
+			(at 136.652 110.236 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1445,7 +1444,7 @@
 		(instances
 			(project "TENS Device"
 				(path "/b9aff4a0-d82a-4bce-ac01-704fb6f0f3d4/bfdd6686-5c44-4050-9e42-e0bc0e78ace7"
-					(reference "Q?")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -1667,7 +1666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "846f49c7-6886-44e1-b7ed-9bb6b4f01112")
-		(property "Reference" "Q?"
+		(property "Reference" "Q2"
 			(at 149.86 111.7599 0)
 			(effects
 				(font
@@ -1751,7 +1750,7 @@
 		(instances
 			(project "TENS Device"
 				(path "/b9aff4a0-d82a-4bce-ac01-704fb6f0f3d4/bfdd6686-5c44-4050-9e42-e0bc0e78ace7"
-					(reference "Q?")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -1766,7 +1765,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f2caeea2-5480-4f67-a842-0d303ba7329f")
-		(property "Reference" "R_f?"
+		(property "Reference" "R_f"
 			(at 157.226 78.74 90)
 			(effects
 				(font
@@ -1818,7 +1817,7 @@
 		(instances
 			(project "TENS Device"
 				(path "/b9aff4a0-d82a-4bce-ac01-704fb6f0f3d4/bfdd6686-5c44-4050-9e42-e0bc0e78ace7"
-					(reference "R_f?")
+					(reference "R_f")
 					(unit 1)
 				)
 			)
@@ -1834,8 +1833,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f50b7f40-50b9-43e2-9e46-cb5dc3fe5089")
-		(property "Reference" "Q?"
-			(at 140.97 80.0099 0)
+		(property "Reference" "Q3"
+			(at 141.224 79.756 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1918,7 +1917,7 @@
 		(instances
 			(project "TENS Device"
 				(path "/b9aff4a0-d82a-4bce-ac01-704fb6f0f3d4/bfdd6686-5c44-4050-9e42-e0bc0e78ace7"
-					(reference "Q?")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
