@@ -622,10 +622,44 @@
 		)
 	)
 	(junction
+		(at 142.24 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4cf9af28-3573-4adf-b7c2-846bc226b980")
+	)
+	(junction
+		(at 140.97 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ba63185-988b-4b7b-8256-2c9884c2d266")
+	)
+	(junction
 		(at 143.51 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8451feaf-c69c-4358-a129-2162ee5b6c73")
+	)
+	(junction
+		(at 135.89 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c9417278-ad6a-4f2c-8e76-ce433187ad1c")
+	)
+	(junction
+		(at 128.27 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb77bde7-01c2-46a3-8091-a568284e07fd")
+	)
+	(wire
+		(pts
+			(xy 146.05 105.41) (xy 147.32 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0313114c-54ea-4721-9ea6-835efcaaed6c")
 	)
 	(wire
 		(pts
@@ -649,6 +683,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 105.41) (xy 146.05 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "179f547a-b46b-45bf-93ac-50ac79f5a12c")
+	)
+	(wire
+		(pts
 			(xy 135.89 86.36) (xy 137.16 87.63)
 		)
 		(stroke
@@ -659,13 +703,33 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 113.03) (xy 139.7 113.03)
+			(xy 137.16 105.41) (xy 140.97 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24f4c7a9-e0bc-4c8f-a5a1-71d5e95c9531")
+	)
+	(wire
+		(pts
+			(xy 125.73 113.03) (xy 128.27 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "256e1dec-6709-4e6b-bfca-56cce55b9d8e")
+	)
+	(wire
+		(pts
+			(xy 130.81 119.38) (xy 129.54 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c2cc927-250c-4241-9a0f-2884e62db7ae")
 	)
 	(wire
 		(pts
@@ -679,6 +743,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 119.38) (xy 137.16 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3442425c-f62d-4688-b2f5-71bb08f8df36")
+	)
+	(wire
+		(pts
 			(xy 163.83 93.98) (xy 165.1 95.25)
 		)
 		(stroke
@@ -686,6 +760,16 @@
 			(type default)
 		)
 		(uuid "3e077335-602b-44fb-8c5b-bd321b60376e")
+	)
+	(wire
+		(pts
+			(xy 135.89 118.11) (xy 134.62 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e590d16-1c81-408d-ab9b-909a72eb7825")
 	)
 	(wire
 		(pts
@@ -709,6 +793,26 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 118.11) (xy 135.89 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55e61dfe-5893-4dea-9d96-3fdfb871b711")
+	)
+	(wire
+		(pts
+			(xy 139.7 113.03) (xy 138.43 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63a2c8b5-92f5-4f7c-880f-baf158676760")
+	)
+	(wire
+		(pts
 			(xy 142.24 73.66) (xy 137.16 73.66)
 		)
 		(stroke
@@ -729,6 +833,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 106.68) (xy 137.16 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a226f4e-256e-44af-88d3-0c9d143251e7")
+	)
+	(wire
+		(pts
 			(xy 143.51 86.36) (xy 143.51 92.71)
 		)
 		(stroke
@@ -736,6 +850,16 @@
 			(type default)
 		)
 		(uuid "6d5943e6-d47f-4ab5-81f1-920b379f14d1")
+	)
+	(wire
+		(pts
+			(xy 138.43 114.3) (xy 138.43 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d928485-4515-4b2f-81e9-6ee2a1d95dc7")
 	)
 	(wire
 		(pts
@@ -749,6 +873,36 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 120.65) (xy 142.24 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ffe3318-7272-4e58-87c9-e9d6316f3dc5")
+	)
+	(wire
+		(pts
+			(xy 134.62 118.11) (xy 133.35 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "818e276c-bdf3-4f3c-9df9-9d62e2fb5575")
+	)
+	(wire
+		(pts
+			(xy 133.35 119.38) (xy 130.81 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82174a43-5cdc-47d7-b45a-6a997f1661c8")
+	)
+	(wire
+		(pts
 			(xy 162.56 90.17) (xy 165.1 90.17)
 		)
 		(stroke
@@ -759,13 +913,23 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 106.68) (xy 148.59 105.41)
+			(xy 142.24 104.14) (xy 140.97 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "83ea3340-87b7-416c-82ac-df9a0e2002ef")
+		(uuid "88682fd3-7c09-499a-989f-49d221681082")
+	)
+	(wire
+		(pts
+			(xy 165.1 102.87) (xy 163.83 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89cfa6f5-fc11-4f0c-b0bb-dcae03ad92aa")
 	)
 	(wire
 		(pts
@@ -779,13 +943,13 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 105.41) (xy 162.56 105.41)
+			(xy 142.24 104.14) (xy 163.83 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "96c96c4d-52f7-458d-b562-d1714389e243")
+		(uuid "911f5afd-7b58-4cf0-b59b-d6e02acb738a")
 	)
 	(wire
 		(pts
@@ -819,6 +983,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 118.11) (xy 135.89 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9eef9913-a577-4bf4-82ef-6a227b759b64")
+	)
+	(wire
+		(pts
 			(xy 146.05 120.65) (xy 147.32 119.38)
 		)
 		(stroke
@@ -846,6 +1020,16 @@
 			(type default)
 		)
 		(uuid "adfb1b45-fd4f-4cc5-8731-00a18ecf22ec")
+	)
+	(wire
+		(pts
+			(xy 129.54 118.11) (xy 129.54 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1cee1d4-d5e4-4905-9865-70e7b3fcad74")
 	)
 	(wire
 		(pts
@@ -879,16 +1063,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 105.41) (xy 165.1 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7c33a31-a015-4cb3-a70b-90ba78a217b6")
-	)
-	(wire
-		(pts
 			(xy 123.19 85.09) (xy 124.46 86.36)
 		)
 		(stroke
@@ -896,6 +1070,16 @@
 			(type default)
 		)
 		(uuid "b9086c06-0b03-43f4-82f0-d2a5516e081a")
+	)
+	(wire
+		(pts
+			(xy 129.54 114.3) (xy 128.27 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9c18a8a-c722-4019-b894-af5f90f3cb4a")
 	)
 	(wire
 		(pts
@@ -966,6 +1150,16 @@
 			(type default)
 		)
 		(uuid "d8c44c7b-aa46-41d3-b300-f15ade8d5c0b")
+	)
+	(wire
+		(pts
+			(xy 135.89 106.68) (xy 135.89 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f84b2a4c-4567-45df-96e7-1b4e946614a1")
 	)
 	(hierarchical_label "~HV"
 		(shape input)
@@ -1152,6 +1346,105 @@
 			(project "TENS Device"
 				(path "/b9aff4a0-d82a-4bce-ac01-704fb6f0f3d4/bfdd6686-5c44-4050-9e42-e0bc0e78ace7"
 					(reference "L?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 133.35 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "24c1908d-ba65-4547-ab63-3909d85a0acc")
+		(property "Reference" "Q1"
+			(at 136.652 110.236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 138.43 114.2999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 133.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 133.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 133.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 133.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "1a2e82d5-8b7c-4761-b61b-9b92068387ac")
+		)
+		(pin "1"
+			(uuid "3efceb10-2fbe-4dd4-82ee-f8bafacf20b1")
+		)
+		(pin "2"
+			(uuid "c8cc6282-cd6c-4a5e-a8a4-c2945ad7c16f")
+		)
+		(instances
+			(project "TENS Device"
+				(path "/b9aff4a0-d82a-4bce-ac01-704fb6f0f3d4/bfdd6686-5c44-4050-9e42-e0bc0e78ace7"
+					(reference "Q1")
 					(unit 1)
 				)
 			)
